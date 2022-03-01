@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The universal scorbutick pills, and radical purifier of nature. Operating by purgation and urine, with the greatest ease and success in various diseases and infirmities ...</title>
+            <author>E. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26378</idno>
+            <idno type="STC">Wing M20B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[50]</idno>
+            <idno type="STC">ESTC R231355</idno>
+            <idno type="EEBO-CITATION">99888635</idno>
+            <idno type="PROQUEST">ocm99888635</idno>
+            <idno type="VID">195854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B26378)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195854)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[50])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The universal scorbutick pills, and radical purifier of nature. Operating by purgation and urine, with the greatest ease and success in various diseases and infirmities ...</title>
+                  <author>E. M.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the undertakers,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>With section entitled "The Antivenereal Pills, or Magnetick Remedy.".</note>
+                  <note>Author information provided by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Advertising --  Drugs --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  England --  Early works to 1800.</term>
+               <term>Sexuallly transmitted diseases --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195854:1"/>
+            <pb facs="tcp:195854:1" rendition="simple:additions"/>
+            <head>THE <hi>Vniverſal Scorbutick Pills,</hi> AND Radical Purifier of Nature.</head>
+            <p>Operating by <hi>Purgation</hi> and <hi>Vrine,</hi> with the greateſt <hi>eaſe</hi> and <hi>ſucceſs</hi> in various Diſeaſes and Infirmities: gently <hi>cleanſing</hi> the whole Body (by thoſe two principal evacuations) from all <hi>Scorbutick, Corrupt</hi> and <hi>depraved</hi> humours: thereby caſting out the <hi>Seeds</hi> of Diſeaſes; <hi>reſtoring</hi> decayed Parts, and <hi>rectifying</hi> diſordered <hi>Faculties;</hi> correcting and quickning the <hi>Digeſtions,</hi> opening <hi>Obſtructions,</hi> and relieving the <hi>Head, Stomack, Spleen, Kidneys, Bowells,</hi> &amp;c. pained or otherwiſe diſtempered: purifying the <hi>Bloud</hi> and <hi>Nervous</hi> juice, procuring thereby a <hi>ſound</hi> habit of Body. Thus working as a true <hi>Catholick Purgative</hi> and <hi>Diuretick;</hi> the provoking matter that cauſeth <hi>Pains, Oppreſſi<g ref="char:EOLhyphen"/>ons, Gripes, Fluxes, Feavors, Convulſions,</hi> &amp;c. is diſcharged by <hi>Stools</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>rine.</hi> The <hi>ſeminal</hi> and continuing Cauſes of the <hi>Scurvy, Conſumptions, Dropſies, Jaundice, Agues, &amp;c.</hi> is hereby daily diminiſhed and rooted out. <hi>Salt Rheums, itching, ſharp,</hi> and <hi>cor<g ref="char:EOLhyphen"/>roding</hi> humours, the foundation and ſupply of <hi>Rheumatiſms, Gouts, Inflammations, Tumors, Impoſtumes, <g ref="char:V">Ʋ</g>lcers, Kings Evil,</hi> deformities of the <hi>skin,</hi> &amp;c. is hereby gradu<g ref="char:EOLhyphen"/>ally drained out and exhauſted, by the uſe of this wholeſome <hi>abſterſive,</hi> and <hi>balſamic</hi> cleanſer; lightning and freeing the Body from all <hi>impurities</hi> and ſuperfluous <hi>humours,</hi> from whence Diſeaſes take their <hi>riſe,</hi> and receive their <hi>growth.</hi>
+            </p>
+            <p>Theſe <hi>Pills</hi> are durable in full vertue <hi>many</hi> years; moſt neceſſary proviſion for all Country <hi>Inhabitants, Travellers, Souldiers, Seamen, Planters, &amp;c.</hi> ready upon all occaſions for <hi>prevention</hi> or <hi>curing:</hi> ſucceſsfully proved upon divers perſons of <hi>Honour</hi> and <hi>Quality,</hi> for many years in a <hi>conſtant</hi> Practice, by the Author an <hi>eminent</hi> Phyſician: And fortu<g ref="char:EOLhyphen"/>nate are they that are provided with this <hi>ſingular</hi> medicine for their help.</p>
+            <div type="part">
+               <head>The <hi>Antivenereal</hi> Pills, or <hi>Magnetick</hi> Remedy.</head>
+               <p>Being a <hi>Specifick Antidote</hi> againſt the ſpreading virulency of the <hi>Venereal Lues,</hi> or <hi>French</hi> Diſeaſe, running of the <hi>Reins,</hi> and other dangerous <hi>ſymptoms</hi> ariſing thence. The moſt <hi>ſecure</hi> and <hi>private</hi> Remedy, now in great requeſt and uſe, againſt this ſurpri<g ref="char:EOLhyphen"/>zing and deceitful lurking Malady. Prepared by the ſame <hi>Author,</hi> moſt <hi>expert</hi> in theſe Cures, as by his <hi>Hiſtory</hi> and <hi>Myſtery</hi> of this Diſeaſe, lately Printed, fully appears.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the Undertakers, 1675.</p>
+         </div>
+         <div type="advert_for_medicines">
+            <p>Who faithfully procures theſe <hi>choice</hi> Medicines ſealed up, from <hi>E. M.</hi> Dr. of Phyſick; with directions for their uſe in all Caſes: Sold by Mr. <hi>Horn,</hi> at the <hi>South Entrance</hi> of the <hi>Royal-Exchange;</hi> Mr. <hi>Baſſet,</hi> at the <hi>George</hi> in <hi>Fleetſtreet;</hi> Mr. <hi>Henſman</hi> in <hi>Weſt<g ref="char:EOLhyphen"/>minſter-Hall;</hi> Bookſellers.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:195854:2"/>
+            <head>To the judicious and diſcreet Reader.</head>
+            <p>THE <hi>Honour</hi> and <hi>Eſteem</hi> of Phyſick in former Ages was ſo great, that <hi>Kings</hi> and <hi>Princes</hi> did own and allow Medicines (of which they were <hi>Authors</hi> and <hi>Inventors</hi>) to be called by their own Names. And <hi>Phyſicians</hi> of the greateſt <hi>fame,</hi> as they were diligent in the <hi>preparation</hi> and <hi>tryals</hi> of Medicines; ſo were they ambitious their <hi>names</hi> ſhould give <hi>Title</hi> to Medicines of their own invention and induſtry. But this laſt Age <hi>revolting</hi> from the ingenious labours of the <hi>Ancient Heroes,</hi> reſigning the <hi>Art</hi> of Medicines (the moſt <hi>excellent</hi> and <hi>neceſſary</hi> part of Phyſick) into the hands of <hi>Tradeſmen;</hi> Medicines thereby fell much lower in <hi>repute;</hi> now ac<g ref="char:EOLhyphen"/>counted a <hi>vulgar</hi> buſineſs, that ſome of our <hi>Doctors</hi> (not the <hi>wiſeſt</hi>) think it too <hi>inferiour</hi> for them to <hi>own</hi> or <hi>meddle</hi> with. But the <hi>vanity</hi> of theſe men, and the <hi>villany</hi> of thoſe that <hi>betrayed</hi> this Noble <hi>Art</hi> into a <hi>Trade,</hi> does manifeſtly appear in a late ſerious <hi>Tract,</hi> intituled the <hi>Ancient and Modern Practice of Phyſick, examined and compared,</hi> &amp;c. By the Author of theſe Medicines. <hi>Illiterate</hi> men of <hi>mean</hi> and <hi>broken</hi> fortunes, (taking advantage upon this <hi>abſurd</hi> neglect of the <hi>Profeſſors</hi>) have <hi>craftily</hi> and <hi>gainfully</hi> obtained the Cuſtom of ſetting forth their trivial ſlight Medicines, ſo that ſome <hi>worthy</hi> Phyſicians now <hi>reviving</hi> the <hi>primitive</hi> practice, are at preſent diſcouraged from offering the <hi>products</hi> of their <hi>Art</hi> to the World, for fear of <hi>ſcandal,</hi> and being accounted in the number of thoſe Quacks. But the <hi>publiſhing</hi> of Medicines thus ſhamefully <hi>de<g ref="char:EOLhyphen"/>famed</hi> by <hi>ignorant</hi> pretenders, muſt be reſtored into eſteem by the <hi>learned,</hi> which will prove moſt <hi>advantagious</hi> to the people: and it is their intereſt to <hi>incourage</hi> skilful experienced <hi>Artiſti,</hi> that they may not <hi>lock</hi> up their <hi>rare</hi> inventions, and <hi>fortunate</hi> experiments, confining them within the narrow compaſs of a <hi>private</hi> practice; but rather that they expoſe their <hi>Arcanum</hi>' to publick uſe, that all who ſtand in need may partake thereof.</p>
+            <p>Thus the <hi>meaneſt</hi> of the people, may purchaſe the <hi>beſt</hi> of Medicines: and ſuch as <hi>travel</hi> abroad, or live <hi>remote</hi> from <hi>able</hi> Phyſicians, may be furniſhed with <hi>able</hi> Curing Medicines. Thoſe who will not <hi>undergo,</hi> or cannot bear the <hi>charge</hi> of a courſe of Phyſick, may receive great <hi>relief</hi> by a <hi>ſingle</hi> Medicine. And ſuch as <hi>languiſh</hi> under the <hi>means,</hi> the places of their abode does afford, will have help brought to them from far. Phyſicians then will be ſtimulated to <hi>out vye</hi> and <hi>excell</hi> each other in the <hi>rarity</hi> and <hi>excellency</hi> of their Remedies, being to undergo a publick Tryal. And when men of the greateſt <hi>knowledge</hi> and <hi>experience</hi> ſhall thus produce their Comprehenſive <hi>Ca<g ref="char:EOLhyphen"/>tholicks</hi> and appropriate <hi>ſpecifick</hi> Medicines; a <hi>treaſury</hi> will be laid open, and what is moſt <hi>ex<g ref="char:EOLhyphen"/>cellent</hi> and <hi>rare,</hi> will be known and conveyed through the <hi>Nation,</hi> for the <hi>eaſe</hi> and <hi>relief</hi> of the Infirm and languiſhing.</p>
+            <p>Theſe publick great <hi>advantages,</hi> as great <hi>reaſons</hi> being conſidered; the <hi>learned</hi> Phyſician need not be aſhamed to publiſh an <hi>extraordinary</hi> Medicine of his own deſignment and elaboration (although <hi>ignorant</hi> bold fellows have <hi>abuſed</hi> the Cuſtom) for if Phyſicians muſt <hi>ſhun</hi> all that they do, then muſt they <hi>leave</hi> their practice too. And if a Printed <hi>Sermon,</hi> or any piece of <hi>learning,</hi> cried about the <hi>Streets,</hi> be no diſparagement to the <hi>work</hi> nor the <hi>Author,</hi> why the publiſhing of a <hi>Medicine?</hi> If a Treatiſe of <hi>Diſeaſes,</hi> of <hi>Anatomy, &amp;c.</hi> be laudable; why not a diſcourſe or diſ<g ref="char:EOLhyphen"/>covery of an <hi>incomparable</hi> Medicine? If <hi>ſpeculations</hi> and notions of the <hi>Head;</hi> why not works of the <hi>Hands</hi> and <hi>Head,</hi> being ſerviceable to many <hi>thouſands</hi> that are not at all benefited by <hi>learned</hi> diſcourſes? If Perſons of <hi>Honour</hi> and <hi>Quality</hi> expoſe their <hi>Cattle</hi> and <hi>produce</hi> of their Land, at <hi>Market</hi> and <hi>Fair,</hi> why not men of <hi>Arts,</hi> the <hi>products</hi> of their learned ingenious la<g ref="char:EOLhyphen"/>bours, being uſeful to the people? He that picks <hi>ſtraws</hi> all day is as <hi>ſerviceable</hi> to the publick<g ref="char:punc">▪</g> as he that <hi>ſtudies</hi> and <hi>labours</hi> many years to acquire a <hi>noble</hi> Medicine, and then <hi>conceals</hi> it. And thus much by way of <hi>Apology</hi> and <hi>Defence,</hi> to obviate the raſh Cenſure of ſome <hi>inconſiderate</hi> men, and ſi<g ref="char:EOLhyphen"/>lence the <hi>reproachful</hi> tongues of others, <hi>envious</hi> at this undertaking, as being <hi>contrary</hi> to their <hi>intereſt.</hi>
+            </p>
+            <p>Now concerning theſe <hi>Medicines,</hi> they are not aſſerted <hi>infallible</hi> (ſince man is <hi>mortal</hi>) but as <hi>certain<g ref="char:punc">▪</g> efficacious,</hi> and full of help as lies in the power of <hi>natural means:</hi> and this <hi>experience</hi> for many years fully confirms: and allowing <hi>one</hi> in <hi>ten</hi> may miſs of their hope herein; yet it were <hi>great</hi> imprudence to refuſe the tryal hereof (at <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> rate) not knowing whether you be <hi>one</hi> of the <hi>nine</hi> to be Cured, or the <hi>tenth</hi> that may fail: and th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will not have cauſe to complain, for as much as a <hi>mitigation</hi> or <hi>intermiſſion</hi> will be gained <hi>even</hi> b<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>m. <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, if you will truſt <hi>learning</hi> and <hi>experience, Art</hi> and indefatigable <hi>induſtry,</hi> for a <hi>ſafe</hi> and <hi>powerful</hi> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ed and improved by long Practice, you have it here.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
